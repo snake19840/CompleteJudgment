@@ -30,6 +30,11 @@ def get_df(stat:int):
 
 def main():
     config=GetConfig()
+    # 登陆
+    apiHandle=ApiHandle()
+    loginInfo=apiHandle.login()
+    print('登陆成功',loginInfo)
+
     df1=get_df(1)
     df2=get_df(2)
     df=None
@@ -47,4 +52,3 @@ def main():
     df.to_excel(config.get_config('write_file'),index=False)
 
 main()
-

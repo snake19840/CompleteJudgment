@@ -1,0 +1,114 @@
+{
+    "id": 1298216,
+    "uid": "6b079c6f-dc01-47c0-9c49-69f32ccb785e",
+    "insurancePolicyId": 24582,
+    "insuranceServiceItemId": 122253,
+    "serviceOrderNo": "G-PZH3202333020000004262-005",
+    "dangerId": 0,
+    "serviceId": 0,
+    "unit": "",
+    "companyId": 9778,
+    "organId": 19,
+    "insuranceCompanyId": 6,
+    "userId": 15105,
+    "roleId": 28,
+    "userName": "15088800868",
+    "nickName": "鲁银芽",
+    "createTime": "2024-06-14T10:48:08.926+08:00",
+    "node": "保险公司报告确认通过",
+    "content": "备注:OK",
+    "type": 0,
+    "state": 97,
+    "result": 0,
+    "addDt": "2024-06-14T10:48:08.927+08:00",
+    "companyRegion": 4,
+    "companyStreet": 90,
+    "file": "",
+    "insuranceServiceItemItem": null,
+    "insuranceServiceItemServiceNames": {
+        "122253": {
+            "id": 122253,
+            "serviceName": "生产安全事故应急预案编制和演练"
+        }
+    },
+    "insuranceServiceItemServiceName": {
+        "id": 122253,
+        "serviceName": "生产安全事故应急预案编制和演练"
+    },
+    "companyItem": null,
+    "companyNames": {
+        "9778": {
+            "id": 9778,
+            "name": "宁波市鄞州城南镀业有限公司"
+        }
+    },
+    "companyName": {
+        "id": 9778,
+        "name": "宁波市鄞州城南镀业有限公司"
+    },
+    "catalogItemItem": null,
+    "catalogItemNames": {
+        "4": {
+            "id": 4,
+            "name": "鄞州区"
+        }
+    },
+    "catalogItemName": {
+        "id": 4,
+        "name": "鄞州区"
+    },
+    "organizationItem": null,
+    "organizationNames": {
+        "19": {
+            "id": 19,
+            "name": "宁波安环健企业管理咨询有限公司"
+        }
+    },
+    "organizationName": {
+        "id": 19,
+        "name": "宁波安环健企业管理咨询有限公司"
+    },
+    "sysUserItem": null,
+    "sysUserNickNames": {
+        "15105": {
+            "id": 15105,
+            "nickName": "鲁银芽"
+        }
+    },
+    "sysUserNickName": {
+        "id": 15105,
+        "nickName": "鲁银芽"
+    },
+    "insuranceCompanyItem": null,
+    "insuranceCompanyNames": {
+        "6": {
+            "id": 6,
+            "name": "中国人民财产保险股份有限公司宁波市分公司"
+        }
+    },
+    "insuranceCompanyName": {
+        "id": 6,
+        "name": "中国人民财产保险股份有限公司宁波市分公司"
+    },
+    "globalUserGroupItem": null,
+    "globalUserGroupNames": {
+        "28": {
+            "id": 28,
+            "tag": "INSURANCE_COMPANY_REPORTER",
+            "name": "保险公司-分公司项目负责人(报告管理)",
+            "typeTag": "insuranceCompany"
+        }
+    },
+    "globalUserGroupName": {
+        "id": 28,
+        "tag": "INSURANCE_COMPANY_REPORTER",
+        "name": "保险公司-分公司项目负责人(报告管理)",
+        "typeTag": "insuranceCompany"
+    },
+    "insuranceServiceTypeItem": null,
+    "insuranceServiceTypeNames": {
+        "0": null
+    },
+    "insuranceServiceTypeName": null,
+    "_tableName": "companyDangerLog"
+}

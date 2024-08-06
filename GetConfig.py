@@ -1,3 +1,9 @@
+
+
+from Singleton import singleton
+
+
+@singleton
 class GetConfig:
     def __init__(self, config_file=r'Config\config.conf'):
         self.config_file = config_file
